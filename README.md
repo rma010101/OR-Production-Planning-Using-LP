@@ -33,15 +33,13 @@ Profit = 9A + 13B + 17C
 
 
 ### Constraints:
-\[
-\begin{align*}
-0.25A + 0.35B + 0.5C &\leq 120 \quad \text{(Glass)} \\
-0.25A + 0.35B + 0.6C &\leq 48 \quad \text{(Labour)} \\
-0.2A + 0.3B + 0.4C &\leq 130 \quad \text{(Machine)} \\
-C &\geq 45 \quad \text{(Pre-order)} \\
-A, B, C &\geq 0 \quad \text{(Non-negativity)}
-\end{align*}
-\]
+
+Glass: 0.25A + 0.35B + 0.5C <= 120
+Labour: 0.25A + 0.35B + 0.6C <= 48
+Machine: 0.2A + 0.3B + 0.4C <= 130
+Pre-Order: C >= 45
+Non-negativity: A, B, C >= 0
+
 
 ## Solution Method
 - Tool used: **Excel Solver** with the **Simplex LP** method.
