@@ -34,11 +34,11 @@ Profit = 9A + 13B + 17C
 
 ### Constraints:
 
-Glass: 0.25A + 0.35B + 0.5C <= 120
-Labour: 0.25A + 0.35B + 0.6C <= 48
-Machine: 0.2A + 0.3B + 0.4C <= 130
-Pre-Order: C >= 45
-Non-negativity: A, B, C >= 0
+- Glass: 0.25A + 0.35B + 0.5C <= 120
+- Labour: 0.25A + 0.35B + 0.6C <= 48
+- Machine: 0.2A + 0.3B + 0.4C <= 130
+- Pre-Order: C >= 45
+- Non-negativity: A, B, C >= 0
 
 
 ## Solution Method
