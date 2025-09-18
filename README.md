@@ -23,13 +23,14 @@ A manufacturer produces three products with the following profit contributions a
 
 ## Mathematical Formulation
 ### Decision Variables:
-- \( A \): Units of Product A to produce  
-- \( B \): Units of Product B to produce  
-- \( C \): Units of Product C to produce  
+A: Units of Product A to produce  
+B: Units of Product B to produce  
+C: Units of Product C to produce  
 
 ### Objective Function:
 Maximize:  
-\[ \text{Profit} = 9A + 13B + 17C \]
+Profit = 9A + 13B + 17C
+
 
 ### Constraints:
 \[
