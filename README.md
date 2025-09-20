@@ -2,7 +2,6 @@
 
 An Application using LP to Maximize Profit Under Resource Constraints
 
-**Author:** rma010101  
 **Date:** September 2025
 
 ## Overview
